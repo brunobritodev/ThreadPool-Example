@@ -12,4 +12,4 @@ Techs:
 * .NET Core
 
 
-More about on [ASP.NET e IIS - Anatomia de uma aplicação Web - Parte 2](https://www.brunobrito.net.br/asp-net-e-iis-anatomia-de-uma-aplicacao-web-parte-2/) - Portuguese only
+More about on [ASP.NET e IIS - Anatomia de uma aplicação Web - Parte 2](https://www.brunobrito.net.br/asp-net-e-iis-anatomia-de-uma-aplicacao-web-parte-ii/) - Portuguese only
