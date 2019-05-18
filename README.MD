@@ -1,4 +1,4 @@
-# .NET Core Console App & Docker with Cron
+# How to improve scalability at ASP.NET Core application with async Actions.
 <img src="https://www.brunobrito.net.br/content/images/2019/05/capa-redes-sociais-2.jpg" width="480" />
 
 Example App - This demo show up how async Action can improve scalability at your ASP.NET Core app.
